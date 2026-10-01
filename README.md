@@ -1,0 +1,2 @@
+# ocicat
+Dynamodb for Scala
